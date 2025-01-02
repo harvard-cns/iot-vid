@@ -3,6 +3,10 @@
 ### Alibaba Group
 [Jiaqi Gao](https://jqgao.me/)
 
+### Georgia Institute of Technology
+
+[Zishen Wan](https://zishenwan.github.io/)
+
 ### Harvard University
 
 [David Brooks](https://davidbrooks.seas.harvard.edu/)
@@ -13,7 +17,9 @@
 
 [Tianyu Jia](http://scholar.pku.edu.cn/tianyujia/home)
 
-[Chonlam Lao](https://laochanlam.com/)
+[ChonLam Lao](https://laochanlam.com/)
+
+[Minghao Li](https://sophiali06.github.io/personal_site/)
 
 [Vijay Janapa Reddi](https://vijay.faculty.bio/)
 
@@ -26,6 +32,12 @@
 ### Microsoft Research
 
 [Ganesh Ananthanarayanan](https://www.microsoft.com/en-us/research/people/ga/)
+
+### University of Maryland, College Park
+
+[Peiqing Chen](https://kaiserv2.github.io/)
+
+[Alan Zaoxing Liu](https://zaoxing.github.io/)
 
 ### UT Austin
 
