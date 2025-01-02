@@ -1,0 +1,5 @@
+# Impacts
+
+The research has demonstrated significant real-world impact through technology transfer to major cloud service providers, semiconductor manufacturers, and telecommunications companies. These partnerships have improved cloud infrastructure efficiency, enhanced capabilities of IoT devices worldwide, and stronger network security implementations.
+
+The project's comprehensive approach to video analytics optimization has laid crucial groundwork for the next generation of IoT applications. Integrating improved performance, enhanced reliability, and increased efficiency across all system layers - from individual devices to cloud processing - provides a robust foundation for future developments in IoT technology. This is particularly important as society increasingly relies on real-time video analysis and autonomous decision-making in applications ranging from urban planning to emergency response systems. The successful adoption of these technologies by industry demonstrates their immediate practical value. It suggests their lasting impact on processing and analyzing video data in our increasingly connected world.
