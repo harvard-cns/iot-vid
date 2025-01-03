@@ -5,6 +5,7 @@ nav:
   - Impacts: impacts.md
   - Educational Activities: educational_activities.md
   - Personnel: personnel.md
+  - Collaborators: collaborators.md
 theme:
   name: material
   palette:
