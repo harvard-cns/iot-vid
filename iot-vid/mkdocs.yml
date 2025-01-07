@@ -1,7 +1,7 @@
-site_name: "Optimized Video Analytics for IoT: from Edge to Cloud"
+site_name: "Cross-Layer Design of Video Analytics for the Internet of Things"
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - Selected Projects: selected_projects.md
   - Impacts: impacts.md
   - Educational Activities: educational_activities.md
   - Personnel: personnel.md
