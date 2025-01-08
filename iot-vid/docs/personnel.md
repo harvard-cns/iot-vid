@@ -20,6 +20,16 @@ Dr. [Minlan Yu](https://minlanyu.seas.harvard.edu/)<br />
 Gordon McKay Professor of Computer Science<br />
 Harvard University
 
+<div style="margin-top: 50px;"></div>
+
+<div>
+  <img src="https://engineering.jhu.edu/wp-content/uploads/2020/07/Yinzhi-Cao-sq-300x300.jpg" alt="Yinzhi Cao" style="max-width: 100px;">
+</div>
+
+Dr. [Yinzhi Cao](https://yinzhicao.org/)<br />
+Associate Professor of Computer Science<br />
+Johns Hopkins University
+
 ### Students
 
 <div>
